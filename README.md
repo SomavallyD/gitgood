@@ -2,4 +2,5 @@
 
 A repository to learn how to use Git.
 
-Version 1
+## Section 1
+How to git good at version control.
